@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u3510_img {
+#u3504_img {
   position:absolute;
   left:0px;
   top:0px;
   width:422px;
   height:829px;
 }
-#u3510 {
+#u3504 {
   position:absolute;
   left:400px;
   top:10px;
   width:422px;
   height:829px;
 }
-#u3511 {
+#u3505 {
   position:absolute;
   left:2px;
   top:406px;
@@ -34,21 +34,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u3512_img {
+#u3506_img {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:428px;
 }
-#u3512 {
+#u3506 {
   position:absolute;
   left:421px;
   top:76px;
   width:375px;
   height:428px;
 }
-#u3513 {
+#u3507 {
   position:absolute;
   left:2px;
   top:206px;
@@ -56,21 +56,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u3514_img {
+#u3508_img {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:667px;
 }
-#u3514 {
+#u3508 {
   position:absolute;
   left:421px;
   top:76px;
   width:375px;
   height:667px;
 }
-#u3515 {
+#u3509 {
   position:absolute;
   left:2px;
   top:326px;
@@ -78,21 +78,21 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u3516_img {
+#u3510_img {
   position:absolute;
   left:0px;
   top:0px;
   width:375px;
   height:239px;
 }
-#u3516 {
+#u3510 {
   position:absolute;
   left:421px;
   top:504px;
   width:375px;
   height:239px;
 }
-#u3517 {
+#u3511 {
   position:absolute;
   left:2px;
   top:112px;
@@ -100,7 +100,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u3518_div {
+#u3512_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -114,7 +114,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u3518 {
+#u3512 {
   position:absolute;
   left:421px;
   top:76px;
@@ -122,7 +122,7 @@
   height:428px;
   opacity:0.5;
 }
-#u3519 {
+#u3513 {
   position:absolute;
   left:2px;
   top:206px;
@@ -130,7 +130,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u3520 {
+#u3514 {
   position:absolute;
   left:427px;
   top:517px;
@@ -139,7 +139,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u3521 {
+#u3515 {
   position:absolute;
   left:421px;
   top:76px;
@@ -148,7 +148,7 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u3522 {
+#u3516 {
   position:absolute;
   left:421px;
   top:555px;
